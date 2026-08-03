@@ -33,13 +33,13 @@
 | Gói Key / Package | Thời gian / Duration | Giá (VND) / Price (VND) | Giá (USD) / Price (USD) |
 | :--- | :--- | :--- | :--- |
 | **🔥 Trial / Dùng thử** | 1 Giờ / 1 Hour | **[Lấy key(Miễn phí)](https://skyauth.site/free-key)** | **[Get key(Free)](https://skyauth.site/free-key)** |
-| **⏱️ Key 3H** | 3 Giờ / 3 Hours | 3,000₫ | ~$0.40 |
-| **⏱️ Key 6H** | 6 Giờ / 6 Hours | 6,000₫ | ~$0.60 |
-| **⏱️ Key 12H** | 12 Giờ / 12 Hours | 10,000₫ | ~$1.00 |
-| **📅 Key 24H** | 1 Ngày / 1 Day | 20,000₫ | ~$2.0 |
-| **📅 Key 7D** | 7 Ngày / 7 Days | 100,000₫ | ~$5.00 |
-| **📅 Key 30D** | 30 Ngày / 30 Days | 300,000₫ | ~$15.00 |
-| **👑 Key Lifetime** | Vĩnh viễn / Lifetime | 1,500,000₫ | ~$100.00 |
+| **⏱️ Key 3H** | 3 Giờ / 3 Hours | 3,000₫ | $0.40 |
+| **⏱️ Key 6H** | 6 Giờ / 6 Hours | 6,000₫ | $0.60 |
+| **⏱️ Key 12H** | 12 Giờ / 12 Hours | 10,000₫ | $1.00 |
+| **📅 Key 24H** | 1 Ngày / 1 Day | 20,000₫ | $2.0 |
+| **📅 Key 7D** | 7 Ngày / 7 Days | 100,000₫ | $5.00 |
+| **📅 Key 30D** | 30 Ngày / 30 Days | 300,000₫ | $15.00 |
+| **👑 Key Lifetime** | Vĩnh viễn / Lifetime | 1,500,000₫ | $100.00 |
 | **⚙️ Custom Key** | Theo yêu cầu / Custom | **[Liên hệ](https://t.me/Skyhax5241)** / **[Contact](https://t.me/Skyhax5241)** | **[Liên hệ](https://t.me/Skyhax5241)** / **[Contact](https://t.me/Skyhax5241)** |
 
 > 💡 **[EN]** Custom Key allows you to request specific duration (e.g., 15 days, 45 days, 90 days) or special usage conditions. Contact for details!  
