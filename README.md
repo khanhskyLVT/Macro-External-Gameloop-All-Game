@@ -98,5 +98,5 @@
 ---
 
 > ⚠️ **Disclaimer / Cảnh báo:**  
-> **[EN]** This project is developed for educational and research purposes regarding peripheral input simulation on emulators. Please use responsibly!  
-> **[VI]** Sản phẩm được phát triển nhằm mục đích nghiên cứu & học tập về mô phỏng hành vi thiết bị ngoại vi trên trình giả lập. Hãy sử dụng một cách có trách nhiệm!
+> **[EN]** This project is developed for "educational and research purposes regarding peripheral input simulation on emulators". Please use responsibly!  
+> **[VI]** Sản phẩm được phát triển nhằm mục đích "nghiên cứu & học tập về mô phỏng hành vi thiết bị ngoại vi trên trình giả lập". Hãy sử dụng một cách có trách nhiệm!
