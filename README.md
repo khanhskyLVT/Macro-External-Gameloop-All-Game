@@ -39,7 +39,7 @@
 | **📅 Key 24H** | 1 Ngày / 1 Day | 20,000₫ | ~$2.0 |
 | **📅 Key 7D** | 7 Ngày / 7 Days | 100,000₫ | ~$5.00 |
 | **📅 Key 30D** | 30 Ngày / 30 Days | 300,000₫ | ~$15.00 |
-| **👑 Key Lifetime** | Vĩnh viễn / Lifetime | 1,500,000₫ | ~$50.00 |
+| **👑 Key Lifetime** | Vĩnh viễn / Lifetime | 1,500,000₫ | ~$100.00 |
 | **⚙️ Custom Key** | Theo yêu cầu / Custom | **[Liên hệ](https://t.me/Skyhax5241)** / **[Contact](https://t.me/Skyhax5241)** | **[Liên hệ](https://t.me/Skyhax5241)** / **[Contact](https://t.me/Skyhax5241)** |
 
 > 💡 **[EN]** Custom Key allows you to request specific duration (e.g., 15 days, 45 days, 90 days) or special usage conditions. Contact for details!  
@@ -63,11 +63,14 @@
 
 ## 💳 Hướng dẫn thanh toán | Payment Guide
 
+> ⚠️ **LƯU Ý QUAN TRỌNG / IMPORTANT NOTE:**  
+> **[EN]** Currently, the automatic payment system is NOT available. To purchase a key, please contact directly via Telegram for manual order processing!  
+> **[VI]** Hiện tại, hệ thống thanh toán tự động CHƯA hoạt động. Để mua key, vui lòng liên hệ trực tiếp qua Telegram để được xử lý đơn hàng thủ công!
+
 | Phương thức / Method | Hướng dẫn / Instructions |
 | :--- | :--- |
 | **💵 Chuyển khoản ngân hàng / Bank Transfer** | Liên hệ để nhận số tài khoản / Contact for bank details |
 | **💎 Mã thẻ cào / Voucher/Card Code** | Chấp nhận thẻ Viettel, Mobifone, VinaPhone / Accept Viettel, Mobifone, VinaPhone |
-| **🪙 USDT (TRC20)** | Hỗ trợ thanh toán quốc tế / International payment support |
 | **💳 PayPal** | Hỗ trợ thanh toán quốc tế / International payment support |
 | **⚡ Momo / ZaloPay** | Thanh toán nhanh trong nước / Fast domestic payment |
 
@@ -82,6 +85,15 @@
 **[VI]** Nếu bạn có bất kỳ thắc mắc nào, muốn nhận key dùng thử, mua bản quyền Source Code, hoặc cần gói key tùy chỉnh, hãy nhắn tin ngay qua Telegram:
 
 👉 **Telegram:** [@Skyhax5241](https://t.me/Skyhax5241)
+
+### 🛒 Quy trình mua key | Key Purchase Process
+
+| Bước / Step | Hướng dẫn / Instructions |
+| :--- | :--- |
+| **1️⃣ Liên hệ / Contact** | Nhắn tin qua Telegram để chọn gói key / Message on Telegram to choose key package |
+| **2️⃣ Thanh toán / Payment** | Chuyển khoản theo hướng dẫn / Transfer according to instructions |
+| **3️⃣ Xác nhận / Confirm** | Gửi ảnh chụp màn hình giao dịch / Send transaction screenshot |
+| **4️⃣ Nhận key / Receive key** | Nhận key qua Telegram trong 5-15 phút / Receive key via Telegram within 5-15 minutes |
 
 ---
 
