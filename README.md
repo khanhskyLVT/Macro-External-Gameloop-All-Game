@@ -37,8 +37,8 @@
 | :--- | :--- | :--- |
 | **Source Code** | Paid project / Commercial source | Dự án trả phí |
 | **Trial Key** | **FREE** | **HOÀN TOÀN MIỄN PHÍ** |
-| **Status / Trạng thái** | Automated key distribution system updating soon | Hệ thống phát key tự động đang được cập nhật |
-
+| **Status / Trạng thái** | The automated key distribution system has been updated. | Hệ thống phát key tự động đã được cập nhật |
+| **Key free / key miễn phí** | [Get key](https://skyauth.site/free-key) | [Lấy key](https://skyauth.site/free-key)
 > 💡 **[EN]** While the automated system is being updated, please contact directly to receive a Trial Key!  
 > 💡 **[VI]** Trong thời gian chờ hệ thống tự động, vui lòng liên hệ trực tiếp để nhận Key trải nghiệm!
 
