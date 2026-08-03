@@ -81,8 +81,8 @@
 
 ## 📞 Liên hệ & Hỗ trợ | Contact & Support
 
-**[EN]** If you have any questions, want to request a trial key, wish to acquire the Source Code, or need a custom key package, feel free to reach out via Telegram:  
-**[VI]** Nếu bạn có bất kỳ thắc mắc nào, muốn nhận key dùng thử, mua bản quyền Source Code, hoặc cần gói key tùy chỉnh, hãy nhắn tin ngay qua Telegram:
+**[EN]** If you have any questions, wish to acquire the Source Code, or need a custom key package, feel free to reach out via Telegram:  
+**[VI]** Nếu bạn có bất kỳ thắc mắc nào, mua bản quyền Source Code, hoặc cần gói key tùy chỉnh, hãy nhắn tin ngay qua Telegram:
 
 👉 **Telegram:** [@Skyhax5241](https://t.me/Skyhax5241)
 
