@@ -71,8 +71,8 @@
 | :--- | :--- |
 | **💵 Chuyển khoản ngân hàng / Bank Transfer** | Liên hệ để nhận số tài khoản / Contact for bank details |
 | **💎 Mã thẻ cào / Voucher/Card Code** | Chấp nhận thẻ Viettel, Mobifone, VinaPhone / Accept Viettel, Mobifone, VinaPhone |
-| **💳 PayPal** | Hỗ trợ thanh toán quốc tế / International payment support |
-| **⚡ Momo / ZaloPay** | Thanh toán nhanh trong nước / Fast domestic payment |
+| **💳 ZaloPay** | Hỗ trợ thanh toán quốc tế / International payment support |
+| **⚡ Momo ** | Thanh toán nhanh trong nước / Fast domestic payment |
 
 > 💳 **[EN]** After payment, please send transaction confirmation to receive your key within 5-15 minutes!  
 > 💳 **[VI]** Sau khi thanh toán, vui lòng gửi xác nhận giao dịch để nhận key trong vòng 5-15 phút!
